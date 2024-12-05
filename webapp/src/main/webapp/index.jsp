@@ -1,1 +1,1 @@
-ii<h1>DevOps class for August trainees<h1>
+<h1>DevOps class for August trainees<h1>
