@@ -5,7 +5,7 @@ pipeline{
     }
 	agent any
       stages{
-           stage('Checkout with Git'){
+           stage('Checkout with git'){
               steps{
 		 echo 'cloning..'
                  git 'https://github.com/Patrickmbaza/Patclass1.git'
